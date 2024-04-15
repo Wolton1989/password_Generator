@@ -28,7 +28,7 @@ print(password_list)
 
 password = ""
 for charector in password_list:
-  password += char
+  password += charector
 
 print(f"Your password is: {password}")
     
